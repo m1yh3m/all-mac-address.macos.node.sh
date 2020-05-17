@@ -1,0 +1,23 @@
+{
+  "name": "@m1yh3m/all-mac-address.macos.node.sh",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "ama": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m1yh3m/all-mac-address.macos.node.sh.git"
+  },
+  "bugs": {
+    "url": "https://github.com/m1yh3m/all-mac-address.macos.node.sh/issues"
+  },
+  "homepage": "https://github.com/m1yh3m/all-mac-address.macos.node.sh#readme",
+  "description": ""
+}
